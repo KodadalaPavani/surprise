@@ -1,0 +1,8 @@
+to list all branches - git branch or git branch --list
+to create branch - git branch branchName
+to switch branch -git switch branchName
+to list all branches in remote - git branch -r
+to list all branches remotely and locally - git branch -a
+to merge branches - git merge branchname(which should be merge)
+to delete branch - git -d branchname
+to rename branch - git -m oldbranchname newbranchname
