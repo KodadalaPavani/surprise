@@ -1,0 +1,9 @@
+1.whoami
+2. who
+3. getent username
+4. sudo su root 
+5. adduser username
+6. su  username
+7. userdel username
+8. getent passwd username
+9. id username
