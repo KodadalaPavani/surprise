@@ -1,0 +1,20 @@
+File permission 
+Entities 
+1.user
+2.group
+3.others
+
+permissions
+read  (r) -4
+write (w) -2
+execute (x) -1
+
+symbols
+add --> +
+remove --> -
+to overwrite --> =
+
+to see all the permissions -> ls -l
+to give permission -> chmod permission filename
+ex : chmod g+x a.txt
+ex : chmod 777 a.txt
